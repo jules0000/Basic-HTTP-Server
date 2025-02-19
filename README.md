@@ -1,4 +1,4 @@
-# Simple Python HTTP Server
+# Basic Python HTTP Server
 
 This is a basic HTTP server built using Python's `socket` module. It serves static HTML files from the `htdocs/` directory.
 
